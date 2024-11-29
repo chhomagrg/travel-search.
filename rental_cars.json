@@ -1,0 +1,13 @@
+
+[
+    {
+        "city": "San Francisco",
+        "kind": "car",
+        "title": "Toyota Corolla"
+    },
+    {
+        "city": "Los Angeles",
+        "kind": "car",
+        "title": "Honda Civic"
+    }
+]

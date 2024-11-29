@@ -1,0 +1,13 @@
+
+[
+    {
+        "city": "San Francisco",
+        "kind": "hotel",
+        "title": "Grand Palace Hotel"
+    },
+    {
+        "city": "Los Angeles",
+        "kind": "hotel",
+        "title": "Beachside Inn"
+    }
+]
